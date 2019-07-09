@@ -1,6 +1,6 @@
 # The Amazing rpkgMin
 
-This package is the bear
+This package is the bear. This package was created during a tutorial given by Colin Gillespie at UseR!2019.
 ---
 
 [Jumping Rivers](https://jumpingrivers.com) are RStudio Certified partners. We are currently developing
