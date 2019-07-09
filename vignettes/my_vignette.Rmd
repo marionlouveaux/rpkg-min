@@ -1,0 +1,33 @@
+---
+title: "my_vignette"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{my_vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+This is the vignette of the package rpkgMin.
+
+```{r setup}
+library(rpkgMin)
+```
+
+```{r}
+add(5,7)
+```
+
+```{r}
+minus(15,20)
+```
+
+
+
+
